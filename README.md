@@ -1,6 +1,5 @@
-# Fuller-hub
-
 :computer: **คัดลอกไปใส่ในตัวรันได้เลย ไม่ต้องแปลภาษา**
+https://github.com/naruepontinn-eng/Fuller-hub/tree/main
 
 ```lua
 loadstring(game:HttpGet("https://gist.githubusercontent.com/naruepontinn-eng/5e0caf837c7c6262ae312121fa919788/raw/Fuller%20hub.lua"))()
@@ -9,4 +8,4 @@ loadstring(game:HttpGet("https://gist.githubusercontent.com/naruepontinn-eng/5e0
 อันนี้สำหรับมือถือ 
 `loadstring(game:HttpGet("https://gist.githubusercontent.com/naruepontinn-eng/5e0caf837c7c6262ae312121fa919788/raw/Fuller%20hub.lua"))()
 `
-:sparkling_heart: *ขอบคุณทุกคนที่สนับสนุนและใช้งาน Fuller Hub ครับ! 
+:sparkling_heart: *ขอบคุณทุกคนที่สนับสนุนและใช้งาน Fuller Hub ครับ!
